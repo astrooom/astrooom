@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm astroom 👋
+
+![https://astroom.dev](https://img.shields.io/website?url=https%3A%2F%2Fastroom.dev&up_message=UP&style=for-the-badge&link=https%3A%2F%2Fastroom.dev)
 
 <!--
 **astrooom/astrooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
